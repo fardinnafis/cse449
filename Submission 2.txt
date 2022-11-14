@@ -8,7 +8,8 @@ Paper title:
 Federated learning for COVID-19 screening from chest X-ray
 
 Link to the paper:
-https://sci-hub.hkvisa.net/10.1016/j.asoc.2021.107330
+
+https://www.sciencedirect.com/science/article/pii/S1568494621002532
 
 Group Number:
 09
